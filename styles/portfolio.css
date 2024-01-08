@@ -11,6 +11,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
 }
 .nav-title{
     color: var(--Dark-01, #181818);
@@ -42,4 +43,11 @@ nav a{
     color: white;
     padding: 15px 35px;
 
+}
+/* header related styles */
+.header{
+    background-color: #FFF8F3;
+}
+banner{
+    padding: 30px 30px 30px 150px;
 }
